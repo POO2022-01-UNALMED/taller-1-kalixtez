@@ -1,0 +1,1 @@
+Porque Git solo permite enlistar archivos, no carpetas, los directorios solo pueden existir dentro de un repositorio cuando hay archivos dentro de estos.
