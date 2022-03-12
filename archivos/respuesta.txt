@@ -1,0 +1,1 @@
+No está habilitada la opción de commit a la rama del repositorio.
