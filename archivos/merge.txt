@@ -1,1 +1,4 @@
+Porque Git solo permite enlistar archivos, no carpetas, los directorios solo pueden existir dentro de un repositorio cuando hay archivos dentro de estos.
 Javier de Jesús Silva Marín, 19, mejorar y aprender nuevos conceptos relacionados con la programación orientada a objetos, debido a que mi interés principal es el desarrollo de videojuegos, área en la que este paradigma de programación es crucial.
+
+Porque los cambios pueden ser conflictivos entre sí, ejemplo, se modifican en ambas partes una misma porción del archivo, sea código, o sea texto, al final uno deberá sobrescribir al otro, o en el peor de los casos, si es código, y ambos cambios se guardan (y estos afectan un mismo aspecto del funcionamiento del programa), podrán generar bugs, comportamientos inesperados o en el peor de los casos crasheos de la aplicación.
